@@ -3,4 +3,4 @@ disablePathToLower: true
 languageCode: fr
 title: Journal de bord des Chroniques Oubliées
 theme: "ananke"
-publishDir: "github-pages"
+publishDir: "docs"
