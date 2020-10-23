@@ -1,0 +1,6 @@
+baseURL: https://bludwarf.github.io
+disablePathToLower: true
+languageCode: fr
+title: Journal de bord des Chroniques Oubliées
+theme: "ananke"
+
