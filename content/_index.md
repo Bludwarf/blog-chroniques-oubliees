@@ -1,6 +1,6 @@
 ---
 title: Chroniques Oubliées
-featured_image: assets/2017-07-30_18.jpg
+featured_image: /assets/2017-07-30_18.jpg
 description: Journal de bord dans le monde des Chroniques Oubliées
 ---
 
