@@ -1,4 +1,4 @@
-baseURL: https://bludwarf.github.io/blog-chroniques-oubliees-hugo/
+baseURL: https://bludwarf.github.io/blog-chroniques-oubliees/
 disablePathToLower: true
 languageCode: fr
 DefaultContentLanguage: fr
