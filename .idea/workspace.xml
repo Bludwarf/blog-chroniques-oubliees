@@ -41,9 +41,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Fichiers GoLand">
-      <change afterPath="$PROJECT_DIR$/layouts/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/summary-with-image.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2017-07-01-premier-scenario.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2017-07-23-premier-scenario.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2017-07-30-retour.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2017-07-30-retour.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2017-09-29-retour.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2017-09-29-retour.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke/layouts/_default/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/layouts/partials" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +86,9 @@
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\partials" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\_default" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post" />
     </key>
@@ -110,6 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Post par journée réelle" />
+    <MESSAGE value="404" />
+    <MESSAGE value="Correction featured_image" />
     <MESSAGE value="Fichiers GoLand" />
     <option name="LAST_COMMIT_MESSAGE" value="Fichiers GoLand" />
   </component>
@@ -146,14 +156,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1604157682392" />
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604169381548">
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604169609375">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1604169381548" />
-    <state x="547" y="104" width="585" height="801" key="find.popup" timestamp="1604169432110">
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1604169609375" />
+    <state x="547" y="104" width="585" height="801" key="find.popup" timestamp="1604170034659">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="547" y="104" width="585" height="801" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1604169432110" />
+    <state x="547" y="104" width="585" height="801" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1604170034659" />
     <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1604162906756">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

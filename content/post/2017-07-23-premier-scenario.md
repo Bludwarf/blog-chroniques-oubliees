@@ -1,5 +1,5 @@
 ---
-date: "2017-07-01"
+date: "2017-07-23"
 featured_image: /assets/dessins/Mathieu/1.jpg
 title: "Premier scénario"
 tags:
@@ -8,7 +8,7 @@ description: "À l'aventure compagnon, nous sommes partis à l'horizon..."
 toc: true
 ---
 
-## 18 h : La traversée du Torrent Glacé
+## La traversée du Torrent Glacé
 
 ![Dessin manquant](../../assets/dessins/Mathieu/1.jpg)
 
@@ -20,7 +20,7 @@ Première étape de notre aventure dans le monde des Chroniques Oubliées.
 
 Ça rigole moins quand ça commence à cailler.
 
-## 19 h 50 : Premier plateau
+## Premier plateau
 
 ![Dessin manquant](../../assets/dessins/Mathieu/3.jpg)
 
