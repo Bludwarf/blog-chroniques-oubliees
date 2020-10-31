@@ -12,5 +12,5 @@ params:
   body_classes: "avenir bg-washed-yellow"
   show_reading_time: false
   recent_posts_number: 10
-  featured_image: /assets/2017-07-30_18.jpg
+  featured_image: /assets/dessins/Mathieu/1.jpg
   commentoEnable: true
