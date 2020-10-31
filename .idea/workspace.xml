@@ -40,15 +40,48 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Fichiers GoLand">
-      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/summary-with-image.html" afterDir="false" />
+    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Adaptation template">
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2017-11-25.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2017-11-26.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-01-20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-05-13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-06-07.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-06-08.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-06-09.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-11-11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-11-20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/partie/2017-05-07-date-incertaine-avec-precedent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/partie/2017-05-14-date-incertaine.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/partie/2017-07-16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/fr.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Chacha/17-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Chacha/17-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/2017-07-01-premier-scenario.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2017-07-23-premier-scenario.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/2017-07-30-retour.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2017-07-30-retour.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/2017-09-29-retour.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2017-09-29-retour.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2017-07-23-premier-scenario.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/partie/2017-04-23.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2017-07-30-retour.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/2017-09-29-retour.md" beforeDir="false" afterPath="$PROJECT_DIR$/content-todo/partie/2017-09-29-retour.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ananke/stackbit.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke/stackbit.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +91,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HugoPluginSettings">
+    <option name="customHugoPath" value="" />
+    <option name="defaultHugoNewOptions" value="" />
+  </component>
   <component name="ProjectId" id="1je9R8CDN0W0EdCLOCoCxRiajpG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/layouts/partials" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,19 +118,22 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="hugo.plugin.settings" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\static\assets\dessins\Mathieu" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\static\assets\dessins\Mathieu" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\partials" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\_default" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content-todo\partie" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content-todo" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post-todo" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\static\assets\dessins\Mathieu" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
     </key>
   </component>
   <component name="RunManager">
@@ -115,13 +158,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Post par journée réelle" />
     <MESSAGE value="404" />
     <MESSAGE value="Correction featured_image" />
     <MESSAGE value="Fichiers GoLand" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fichiers GoLand" />
+    <MESSAGE value="Adaptation template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaptation template" />
   </component>
   <component name="WindowStateProjectService">
     <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604157784816">
@@ -132,34 +178,34 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="92" y="92" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1604165966832" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1604157805836">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1604170758183">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1604157805836" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1604157805836">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1604170758183" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1604170758183">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1604157805836" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1604157805836">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1604170758183" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1604170758183">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1604157805836" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1604157805836">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1604170758183" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1604170758183">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1604157805836" />
-    <state x="645" y="207" key="RollbackChangesDialog" timestamp="1604158969577">
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1604170758183" />
+    <state x="645" y="207" key="RollbackChangesDialog" timestamp="1604170643187">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="645" y="207" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1604158969577" />
-    <state x="341" y="150" key="SettingsEditor" timestamp="1604157682392">
+    <state x="645" y="207" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1604170643187" />
+    <state x="341" y="150" key="SettingsEditor" timestamp="1604174107902">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1604157682392" />
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604169609375">
+    <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1604174107902" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604170673887">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1604169609375" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1604170673887" />
     <state x="547" y="104" width="585" height="801" key="find.popup" timestamp="1604170034659">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
