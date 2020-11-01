@@ -40,107 +40,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/assets/dessins/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/partie/2017-05-07-date-incertaine-avec-precedent/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/partie/2017-05-14-date-incertaine/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/partie/2017-07-16/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/_markup/render-image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/imgproc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/10.esquisse_hu82c45c33f74431efec1d9a83d04d2334_137541_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/11.esquisse_hu626ba8eaed261ab7faa559a28f3e25fd_72355_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/14.esquisse_hub1f69716a00e7b055349d8ecb4609501_38164_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/15.esquisse_hu36fbed85ed125c1052080c588ba952e0_78930_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16.esquisse_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_091d0c35efded1aca0748cdc46ae0140.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_300x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_33452c162fe409a4f7835707fb72d567.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_46955fb3b56ac37a2664ce52f0d47b7b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_600x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_7350b6a2a1ab85ae4a44401407a6e631.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_74e1c67c34017efc3653f111e014aae3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_7a099e1a49b7c186cffb9f9134c1295b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_9ab318b53f29dc503673e789da189a74.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_ca4713335c63dc81d1c5c5a9c3b9b68d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_10677692292002802440.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_12947713106092041270.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_13816211914305639099.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_18250187394720000007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_3288572076881365177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_3800520570636204240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_90550112378438128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/16_hu6ca28b085f4c0c27752145d0a69456cb_80969_filter_9794217886762216511.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/17-1_hu19319233a84c0bdbb563eb7a3932319d_92376_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/17-1_hu19319233a84c0bdbb563eb7a3932319d_92376_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/17-2_hubabe96ed1b50f4c48ff8b5e1c87dd71f_180765_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/17-2_hubabe96ed1b50f4c48ff8b5e1c87dd71f_180765_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/17.esquisse_hud19dafcb8de3fd22652127d9ab63b323_133665_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/19.esquisse_hu3d25b286e75ca4b080a70335cad58bd7_106698_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/1_hucb6f5c9fcb8f9ef65ff97a755f570ef4_594276_2b099ac4d7ea20775882a115b467cb78.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/1_hucb6f5c9fcb8f9ef65ff97a755f570ef4_594276_300x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/1_hucb6f5c9fcb8f9ef65ff97a755f570ef4_594276_60x0_resize_q75_box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/1_hucb6f5c9fcb8f9ef65ff97a755f570ef4_594276_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/1_hucb6f5c9fcb8f9ef65ff97a755f570ef4_594276_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/20.esquisse_hu54412096f8747ebcdaec16ae3564614f_81266_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/21.esquisse_huc3d7ed293f48a21737ab12aec0cd10e0_120609_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/22.esquisse_hu670848de3e013a5c09b4e8457f6953b4_82991_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/23.esquisse_hu91bf881651a48e5fdef838b9be55bb24_94615_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/24.esquisse_huedff0be7d3110b4fbb0f95cd50739990_67219_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/2_hu8fc365e1ca214755f7213804db377e28_514555_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/2_hu8fc365e1ca214755f7213804db377e28_514555_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3.esquisse_hu247c939c1d0d658fe85a1048ad167a89_114946_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3.esquisse_hu247c939c1d0d658fe85a1048ad167a89_114946_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3.esquisse_hu247c939c1d0d658fe85a1048ad167a89_114946_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3.esquisse_hu247c939c1d0d658fe85a1048ad167a89_114946_filter_8861127346710253689.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3_hu247c939c1d0d658fe85a1048ad167a89_114946_2e96988bf003cc1bb328055e3aa10b1e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3_hu247c939c1d0d658fe85a1048ad167a89_114946_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/3_hu247c939c1d0d658fe85a1048ad167a89_114946_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/4.esquisse_hu24321c6257f315362937bf1360a432f4_336029_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/4_hu24321c6257f315362937bf1360a432f4_336029_filter_16378540656907117662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/4_hu24321c6257f315362937bf1360a432f4_336029_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/7.esquisse_hud8b77290b8756606842644d77d62a23c_127832_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/7.esquisse_hud8b77290b8756606842644d77d62a23c_127832_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/7.esquisse_hud8b77290b8756606842644d77d62a23c_127832_filter_8861127346710253689.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/8.esquisse_hu230ef9c6d89450b299ecc6cbfed3ec8b_122036_filter_14585950824410883713.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/8.esquisse_hu230ef9c6d89450b299ecc6cbfed3ec8b_122036_filter_6772119302983164371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/images/8.esquisse_hu230ef9c6d89450b299ecc6cbfed3ec8b_122036_filter_8861127346710253689.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blog-chroniques-oubliees.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog-chroniques-oubliees.iml" afterDir="false" />
+    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Traitement des images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/partie/2017-04-23.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/partie/2017-04-23/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/partie/2017-05-07-date-incertaine-avec-precedent.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/partie/2017-05-14-date-incertaine.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/partie/2017-07-16.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Chacha/17-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Chacha/17-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Chacha/17-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Chacha/17-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/10.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/14.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/15.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/16.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/17.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/19.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/20.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/21.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/22.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/23.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/24.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/3.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/7.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/8.esquisse.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dessins/Mathieu/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dessins/Mathieu/21.esquisse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/partie/2017-07-16/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/partie/2017-07-16/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/partie/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/dessins/Mathieu" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -188,9 +91,9 @@
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content-todo\partie" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\assets\dessins\Mathieu" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\partie\test" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\assets\dessins" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\assets\dessins\Mathieu" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\partie\2017-04-23\images" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees" />
     </key>
@@ -228,7 +131,8 @@
     <MESSAGE value="Adaptation template" />
     <MESSAGE value="Fichiers .idea" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="Traitement des images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Traitement des images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604157784816">
@@ -255,18 +159,18 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1604170758183" />
-    <state x="645" y="207" key="RollbackChangesDialog" timestamp="1604170643187">
+    <state x="645" y="207" key="RollbackChangesDialog" timestamp="1604239434528">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="645" y="207" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1604170643187" />
+    <state x="645" y="207" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1604239434528" />
     <state x="341" y="150" key="SettingsEditor" timestamp="1604174107902">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1604174107902" />
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604170673887">
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604238705147">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1604170673887" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1604238705147" />
     <state x="446" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604238362918">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

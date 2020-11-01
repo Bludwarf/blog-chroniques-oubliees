@@ -1,8 +1,9 @@
 ---
 date: "2017-07-16"
+# Comme on utilise ce dessin comme featured_image on ne peut pas lui appliquer de filtre
 featured_image: dessins/Mathieu/21.jpg
 title: "L'attaque du camp de voleurs"
-description: ""
+description: "Tout en finesse"
 toc: true
 ---
 
@@ -16,7 +17,7 @@ toc: true
 
 ## 15 h 40 : Attaque pas surprise en fait
 
-![Dessin manquant](dessins/Mathieu/21.esquisse.jpg)
+![Dessin manquant](dessins/Mathieu/21.jpg)
 
 ## 16 h 38 : L'apocalypse
 
