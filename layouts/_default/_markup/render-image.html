@@ -26,13 +26,20 @@
 {{ with $image }}
 
     {{/* Traitement d'image */}}
+    {{/* Code à reporter dans les fichiers layouts/partials/*-header.html */}}
     {{ if in $linkContext.Destination ".esquisse." }}
         {{ $image = $image.Filter (images.Gamma 0.1) }}
+    {{ end }}
+
+    {{/* Conversion PNG - JPEG */}}
+    {{ if in $linkContext.Destination "png" }}
+        {{ $image = $image.Fit "2214x2214 jpg #000000" }}
     {{ end }}
 
     {{/* Source : https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/ */}}
 
     {{ if $linkContext.Title }}
+
     <figure style="background: black;">
         <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}">
         <figcaption style="text-align: center; color: white;">{{ $linkContext.Title }}</figcaption>
@@ -42,5 +49,5 @@
     {{ end }}
 
 {{ else }}
-pas d'image
+<span title="{{ $linkContext.Destination }}"> {{ $linkContext.Text }}</span>
 {{ end }}

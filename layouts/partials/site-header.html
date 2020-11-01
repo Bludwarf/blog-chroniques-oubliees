@@ -1,0 +1,60 @@
+{{ $featured_image := .Param "featured_image"}}
+
+{{ if $featured_image }}
+    {{ $image := .Page.Resources.GetMatch $featured_image }}
+    {{ if not $image }}
+        {{ $image = resources.Get $featured_image }}
+    {{ end }}
+
+    {{ with $image }}
+
+        {{/* Traitement d'image */}}
+        {{ if in $featured_image ".esquisse." }}
+            {{ $image = $image.Filter (images.Gamma 0.1) }}
+        {{ end }}
+
+        {{/* Conversion PNG - JPEG */}}
+        {{ if in $featured_image "png" }}
+            {{ $image = $image.Fit "2214x2214 jpg #000000" }}
+        {{ end }}
+
+        {{ $featured_image = $image.Permalink }}
+
+    {{ end }}
+
+{{ end }}
+
+{{ if $featured_image }}
+
+  <header class="cover bg-top site-header" style="background-image: url('{{ $featured_image }}');">
+    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
+      {{ partial "site-navigation.html" .}}
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+          {{ .Title | default .Site.Title }}
+        </h1>
+        {{ with .Params.description }}
+          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+            {{ . }}
+          </h2>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ else }}
+  <header class="site-header-without-image">
+    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | default "bg-black" }}">
+      {{ partial "site-navigation.html" . }}
+      <div class="tc-l pv3 ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
+          {{ .Title | default .Site.Title }}
+        </h1>
+        {{ with .Params.description }}
+          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+            {{ . }}
+          </h2>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ end }}

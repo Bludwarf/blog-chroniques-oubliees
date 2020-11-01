@@ -13,9 +13,9 @@ params:
   description: Journal de bord des Chroniques Oubliées
   background_color_class: bg-dark-gray
   body_classes: "avenir bg-washed-yellow"
-  show_reading_time: false
+  show_reading_time: true
   mainSections:
-  - "partie"
+  - "scenario"
   recent_posts_number: 5
-  featured_image: /assets/dessins/Mathieu/1.jpg
+  featured_image: dessins/web/chroniques-oubliées.jpg
   commentoEnable: false
