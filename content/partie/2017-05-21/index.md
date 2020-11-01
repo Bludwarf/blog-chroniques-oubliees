@@ -6,7 +6,7 @@ description: "On est chez nous maintenant"
 toc: true
 ---
 
-**Date incertaine entre le 23/04/2017 et le 26/05/2017**
+*Ajouter la rencontre sur le chemin d'un paysan avec deal de paté en croute et de courges*.
 
 ## Chez nous
 
