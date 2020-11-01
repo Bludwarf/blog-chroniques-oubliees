@@ -1,6 +1,6 @@
 ---
 title: Chroniques Oubliées
-featured_image: /assets/dessins/Mathieu/1.jpg
+featured_image: dessins/Mathieu/1.jpg
 description: Journal de bord dans le monde des Chroniques Oubliées
 ---
 

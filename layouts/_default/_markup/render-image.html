@@ -1,0 +1,46 @@
+{{/* Source : https://gohugo.io/getting-started/configuration-markup#markdown-render-hooks */}}
+{{/*
+<p class="md__image">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+</p>
+*/}}
+
+
+
+{{ $linkContext := . }}
+
+
+
+{{/*
+    On est obligé de faire un if not + un with pour récupérer l'image.
+    Si on fait simplement un : $image := resources.Get .Destination
+    Alors on a un NPE lorsqu'on veut appeler des méthodes sur la resource
+
+    Source : https://discourse.gohugo.io/t/error-with-imageconfig-image-unknown-format/28985/7?u=bludwarf
+*/}}
+
+{{ $image := .Page.Resources.GetMatch .Destination }}
+{{ if not $image }}
+{{ $image = resources.Get .Destination }}
+{{ end }}
+{{ with $image }}
+
+    {{/* Traitement d'image */}}
+    {{ if in $linkContext.Destination ".esquisse." }}
+        {{ $image = $image.Filter (images.Gamma 0.1) }}
+    {{ end }}
+
+    {{/* Source : https://sebastiandedeyne.com/captioned-images-with-markdown-render-hooks-in-hugo/ */}}
+
+    {{ if $linkContext.Title }}
+    <figure style="background: black;">
+        <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}">
+        <figcaption style="text-align: center; color: white;">{{ $linkContext.Title }}</figcaption>
+    </figure>
+    {{ else }}
+    <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}">
+    {{ end }}
+
+{{ else }}
+pas d'image
+{{ end }}
