@@ -40,10 +40,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Traitement des images">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/dessins/Mathieu/21.esquisse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/dessins/Mathieu/21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/partie/2017-07-16/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/partie/2017-07-16/index.md" afterDir="false" />
+    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Correction featured_image avec traitement">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,8 @@
     <MESSAGE value="Fichiers .idea" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="Traitement des images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Traitement des images" />
+    <MESSAGE value="Correction featured_image avec traitement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction featured_image avec traitement" />
   </component>
   <component name="WindowStateProjectService">
     <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604157784816">
