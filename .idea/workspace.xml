@@ -40,49 +40,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Adaptation template">
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2017-11-25.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2017-11-26.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-01-20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-05-13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-06-07.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-06-08.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-06-09.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-11-11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content-todo/partie/2018-11-20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/partie/2017-05-07-date-incertaine-avec-precedent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/partie/2017-05-14-date-incertaine.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/partie/2017-07-16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i18n/fr.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Chacha/17-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Chacha/17-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/dessins/Mathieu/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/2017-07-23-premier-scenario.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/partie/2017-04-23.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/2017-07-30-retour.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/2017-09-29-retour.md" beforeDir="false" afterPath="$PROJECT_DIR$/content-todo/partie/2017-09-29-retour.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ananke/stackbit.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke/stackbit.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="7ee3990f-ff89-4c19-b89a-f0538458fd4a" name="Default Changelist" comment="Adaptation template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,18 +79,18 @@
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\static\assets\dessins\Mathieu" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\partials" />
-      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content-todo\partie" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content-todo" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post-todo" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\static\assets\dessins\Mathieu" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\static\assets\dessins\Mathieu" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\content\post" />
+      <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\partials" />
       <recent name="D:\Projets\Go\blog-chroniques-oubliees\layouts\post" />
     </key>
   </component>
