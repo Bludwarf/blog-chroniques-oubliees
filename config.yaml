@@ -19,3 +19,7 @@ params:
   recent_posts_number: 5
   featured_image: dessins/web/chroniques-oubliées.jpg
   commentoEnable: false
+
+module:
+  imports:
+    - path: github.com/budparr/gohugo-theme-ananke
