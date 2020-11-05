@@ -4,7 +4,6 @@ languageCode: fr
 DefaultContentLanguage: fr
 SectionPagesMenu: main
 title: Journal de bord des Chroniques Oubliées
-theme: "ananke"
 
 taxonomies:
   auteur: auteurs
