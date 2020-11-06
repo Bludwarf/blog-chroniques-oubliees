@@ -4,3 +4,5 @@ github.com/budparr/gohugo-theme-ananke v2.6.7+incompatible h1:rf7CQuO54H9e0hLvuo
 github.com/budparr/gohugo-theme-ananke v2.6.7+incompatible/go.mod h1:9r7GN6AMPrEGmdPdobobcORrROP1f0ScFZ6TVYlIafw=
 github.com/francoischalifour/medium-zoom v0.4.0 h1:1FCvaqYE/DsgGzb4zy5CsRtBTAL5WV9a53aJFogSX3k=
 github.com/francoischalifour/medium-zoom v0.4.0/go.mod h1:KkQgP8cawu9qnT10IEhE7GhOsGpzdaCWjblgIZP8fU4=
+github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible h1:7c+NVmojLSbkk3F0GjCvEgWRI8oZh++vtR9VbNZJuMY=
+github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible/go.mod h1:RlzLLao82tupbQFWEZtV9ibVqr9+2WYw31sCghz3n3Y=

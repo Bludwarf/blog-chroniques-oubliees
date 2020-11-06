@@ -4,6 +4,8 @@ languageCode: fr
 DefaultContentLanguage: fr
 SectionPagesMenu: main
 title: Journal de bord des Chroniques Oubliées
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke
 
 taxonomies:
   auteur: auteurs
@@ -18,7 +20,3 @@ params:
   recent_posts_number: 5
   featured_image: dessins/web/chroniques-oubliées.jpg
   commentoEnable: false
-
-module:
-  imports:
-    - path: github.com/budparr/gohugo-theme-ananke
