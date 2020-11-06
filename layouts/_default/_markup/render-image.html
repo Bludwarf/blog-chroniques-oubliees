@@ -41,11 +41,11 @@
     {{ if $linkContext.Title }}
 
     <figure style="background: black;">
-        <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}">
+        <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}" data-zoomable="true">
         <figcaption style="text-align: center; color: white;">{{ $linkContext.Title }}</figcaption>
     </figure>
     {{ else }}
-    <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}">
+    <img src="{{ $image.RelPermalink }}" alt="{{ $linkContext.Text }}" data-zoomable="true">
     {{ end }}
 
 {{ else }}
