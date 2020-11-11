@@ -6,6 +6,7 @@ SectionPagesMenu: main
 title: Journal de bord des Chroniques Oubliées
 theme:
   - github.com/theNewDynamic/gohugo-theme-ananke
+enableEmoji: true
 
 taxonomies:
   category: categories
