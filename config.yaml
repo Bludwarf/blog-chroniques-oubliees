@@ -8,6 +8,8 @@ theme:
   - github.com/theNewDynamic/gohugo-theme-ananke
 
 taxonomies:
+  category: categories
+  tag: tags
   auteur: auteurs
 
 params:

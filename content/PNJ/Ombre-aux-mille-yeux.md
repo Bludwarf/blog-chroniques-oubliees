@@ -1,5 +1,5 @@
 ---
-title: L'Ombre-aux-mille-yeux.md
+title: L'Ombre-aux-mille-yeux
 date: 2017-04-23
 ---
 
