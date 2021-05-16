@@ -41,7 +41,7 @@ Enfin une petite pause pour souffler un peu (et boire).
 
 ## Haut-Perchoir
 
-![Dessin manquant](dessins/Mathieu/5.jpg)
+![Dessin manquant](dessins/Mathieu/5.esquisse.jpg)
 
 ![Dessin manquant](dessins/Mathieu/6.jpg)
 

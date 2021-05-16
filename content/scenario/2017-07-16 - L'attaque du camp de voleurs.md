@@ -17,7 +17,7 @@ draft: true
 
 ## 15 h 40 : Attaque pas surprise en fait
 
-![Dessin manquant](dessins/Mathieu/21.jpg)
+![Dessin manquant](dessins/Mathieu/21.esquisse.jpg)
 
 ## 16 h 38 : L'apocalypse
 
